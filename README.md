@@ -1,5 +1,5 @@
 # todo-list-Qt
 
-todo list with Qt framwork and c++ langage
+todo list with Qt framework and c++ langage
 
 hope you enjoy!
